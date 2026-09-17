@@ -1,5 +1,7 @@
 .env
 tutor_agent.log
+run.log
+*.log
 __pycache__/
 .venv*/
 build/
